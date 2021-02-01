@@ -33,7 +33,7 @@ android_app_import {
 	name: "NxpNfcNci",
 	owner: "oneplus",
 	apk: "proprietary/system_ext/app/NxpNfcNci/NxpNfcNci.apk",
-	certificate: "platform",
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
